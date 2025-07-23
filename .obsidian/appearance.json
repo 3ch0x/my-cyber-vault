@@ -1,0 +1,13 @@
+{
+  "accentColor": "#22a52b",
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [],
+  "theme": "obsidian"
+}

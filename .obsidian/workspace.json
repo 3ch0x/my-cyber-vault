@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "c9d6ada4ecdef78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7e13cbed2f8160b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a617c9b63b2e8f8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN/index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "a1368370b65a74fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa3f07f05b643ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1205ae9981a1524c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0432744bce4537",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "438cf2a86ade50ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "63bbbcbfe43785ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "098c5f4bea3c39a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d005872919ffe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f11881cabe0026c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MAIN/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "90d165519dad45d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MAIN/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "cea201380207217c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b42dfe38701a429c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MAIN/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "8af8a93a8b20cf1f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8af8a93a8b20cf1f",
+  "lastOpenFiles": [
+    "README.md",
+    "STUDY/Concepts/Networking",
+    "STUDY/Concepts/Core/Threat Modeling.md",
+    "STUDY/Concepts/Core/Risk Management.md",
+    "MAIN/index.md",
+    "STUDY/Concepts/Core",
+    "STUDY/Concepts",
+    "Threat Modeling.md",
+    "STUDY/OSINT/Important links.md",
+    "MAIN",
+    "CTF/THM/HA-Joker-CTF/walkthrough.md",
+    "CTF/METASPLOITABLE3/Day1.md",
+    "CTF/THM/HA-Joker-CTF",
+    "SOC_analyst/Q&A - Interview.md",
+    "CTF/METASPLOITABLE3/Day2.md",
+    "CTF/METASPLOITABLE3/Steps-to-take.md",
+    "Pasted image 20250702004142.png",
+    "Pasted image 20250702003134.png",
+    "Pasted image 20250702000405.png",
+    "Pasted image 20250702000341.png",
+    "CTF/HACKTORIA/Cold-War-Enemies/questions/cold-war-enemies-target.jpg",
+    "CTF/METASPLOITABLE3",
+    "CTF/HACKTORIA/Cold-War-Enemies/questions/Cold War Enemies.png",
+    "CTF/HACKTORIA/Cold-War-Enemies/questions/Cold War Enemies.pdf",
+    "CTF/HACKTORIA/Cold-War-Enemies/questions/Cold War Enemies - Write-Up.md",
+    "CTF/LIVE-CASE/bangkokk-discord/Raw-report.md",
+    "CTF/HACKTORIA/Cold-War-Enemies/questions/flagfile-cold-war-enemies.zip",
+    "CTF/HACKTORIA/Cold-War-Enemies/questions",
+    "CTF/HACKTORIA/Cold-War-Enemies/New folder",
+    "NOTES/PHISHING.md",
+    "NOTES/KQL.md",
+    "SOC_analyst/Prep Plan - Interview.md",
+    "SOC_analyst/OWASP Top 10.md",
+    "CTF/THM/OSINT-L2/OSINT-L2-Notes.md",
+    "CTF/THM/OSINT-L2/OSINT-L2-Case.md",
+    "NOTES/ELITE OPSEC Guide.md",
+    "SOC_analyst/Notes/Network Traffic Analysis.md",
+    "SOC_analyst/Notes/Networking.md",
+    "SOC_analyst/Notes/Network Security.md",
+    "Welcome.md"
+  ]
+}
