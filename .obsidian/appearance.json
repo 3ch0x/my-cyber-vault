@@ -3,7 +3,7 @@
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
-  "baseFontSize": 15,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "showRibbon": false,

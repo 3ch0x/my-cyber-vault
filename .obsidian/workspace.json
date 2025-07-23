@@ -14,27 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/index.md",
+                "file": "MAIN/Study Index.md",
                 "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Study Index"
             }
           },
           {
-            "id": "a1368370b65a74fe",
+            "id": "61b816aef6be2f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/index.md",
+                "file": "MAIN/Study Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Study Index"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/index.md",
+                "file": "MAIN/Study Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Study Index"
             }
           },
           {
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/index.md",
+                "file": "MAIN/Study Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Study Index"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/index.md",
+                "file": "MAIN/Study Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Study Index"
             }
           },
           {
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409
+    "width": 409,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,21 +199,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8af8a93a8b20cf1f",
+  "active": "61b816aef6be2f1e",
   "lastOpenFiles": [
-    "README.md",
-    "STUDY/Concepts/Networking",
-    "STUDY/Concepts/Core/Threat Modeling.md",
     "STUDY/Concepts/Core/Risk Management.md",
-    "MAIN/index.md",
-    "STUDY/Concepts/Core",
-    "STUDY/Concepts",
+    "MAIN/Study Index.md",
+    "STUDY/Concepts/Blue_Team/SIEM_Log_Management",
+    "STUDY/Concepts/Blue_Team/Incident_Response",
+    "STUDY/Concepts/Blue_Team/SOC",
+    "STUDY/Concepts/Red_Team",
+    "STUDY/Concepts/Blue_Team",
+    "STUDY/Concepts/Compliance",
+    "STUDY/Concepts/Web Security",
+    "STUDY/Concepts/Cryptography",
+    "STUDY/Concepts/Programming",
+    "STUDY/Concepts/OS",
+    "STUDY/Concepts/Core/Threat Modeling.md",
+    "README.md",
     "Threat Modeling.md",
     "STUDY/OSINT/Important links.md",
-    "MAIN",
     "CTF/THM/HA-Joker-CTF/walkthrough.md",
     "CTF/METASPLOITABLE3/Day1.md",
-    "CTF/THM/HA-Joker-CTF",
     "SOC_analyst/Q&A - Interview.md",
     "CTF/METASPLOITABLE3/Day2.md",
     "CTF/METASPLOITABLE3/Steps-to-take.md",
@@ -221,14 +227,9 @@
     "Pasted image 20250702000405.png",
     "Pasted image 20250702000341.png",
     "CTF/HACKTORIA/Cold-War-Enemies/questions/cold-war-enemies-target.jpg",
-    "CTF/METASPLOITABLE3",
     "CTF/HACKTORIA/Cold-War-Enemies/questions/Cold War Enemies.png",
-    "CTF/HACKTORIA/Cold-War-Enemies/questions/Cold War Enemies.pdf",
     "CTF/HACKTORIA/Cold-War-Enemies/questions/Cold War Enemies - Write-Up.md",
     "CTF/LIVE-CASE/bangkokk-discord/Raw-report.md",
-    "CTF/HACKTORIA/Cold-War-Enemies/questions/flagfile-cold-war-enemies.zip",
-    "CTF/HACKTORIA/Cold-War-Enemies/questions",
-    "CTF/HACKTORIA/Cold-War-Enemies/New folder",
     "NOTES/PHISHING.md",
     "NOTES/KQL.md",
     "SOC_analyst/Prep Plan - Interview.md",
