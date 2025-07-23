@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAIN/Study Index.md",
+                "file": "STUDY/Concepts/Core/Risk Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study Index"
+              "title": "Risk Management"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN/Study Index.md",
+                "file": "STUDY/Concepts/Core/Risk Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Study Index"
+              "title": "Backlinks for Risk Management"
             }
           },
           {
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN/Study Index.md",
+                "file": "STUDY/Concepts/Core/Risk Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Study Index"
+              "title": "Outgoing links from Risk Management"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN/Study Index.md",
+                "file": "STUDY/Concepts/Core/Risk Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Study Index"
+              "title": "Outline of Risk Management"
             }
           },
           {
@@ -201,8 +201,8 @@
   },
   "active": "61b816aef6be2f1e",
   "lastOpenFiles": [
-    "STUDY/Concepts/Core/Risk Management.md",
     "MAIN/Study Index.md",
+    "STUDY/Concepts/Core/Risk Management.md",
     "STUDY/Concepts/Blue_Team/SIEM_Log_Management",
     "STUDY/Concepts/Blue_Team/Incident_Response",
     "STUDY/Concepts/Blue_Team/SOC",
