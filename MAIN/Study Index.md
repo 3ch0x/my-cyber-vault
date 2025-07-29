@@ -17,16 +17,16 @@
 
 ### Networking Fundamentals
 
-- [ ] Master OSI Model layers [[OSI Model]] [[Network Protocols]]
-- [ ] Understand TCP/IP stack [[TCP/IP]] [[Network Communication]]
-- [ ] Learn common protocols (HTTP/HTTPS, DNS, DHCP) [[HTTP Protocol]] [[DNS Security]] [[DHCP]]
+- [ ] Master OSI Model layers [[OSI Model]] [[STUDY/Concepts/Networking/Network_Protocols|Network Protocols]]
+- [ ] Understand TCP/IP stack [[STUDY/Concepts/Networking/TCP-IP/TCP/IP]] [[STUDY/Concepts/Networking/Network_Communication|Network Communication]]
+- [ ] Learn common protocols (HTTP/HTTPS, DNS, DHCP) [[STUDY/Concepts/Networking/HTTP Protocol|HTTP Protocol]] [[STUDY/Concepts/Networking/DNS_Security|DNS Security]] [[STUDY/Concepts/Networking/DHCP|DHCP]]
 - [ ] Master SSH and RDP protocols [[SSH Security]] [[RDP Security]] [[Remote Access]]
 - [ ] Practice subnetting and VLSM [[Subnetting]] [[IP Addressing]] [[Network Design]]
 - [ ] Configure firewall rules [[Firewall Rules]] [[Network Security]] [[Iptables]]
 - [ ] Implement network segmentation [[Network Segmentation]] [[VLAN Security]]
 - [ ] Set up VPN connections [[VPN Security]] [[IPSec]] [[OpenVPN]]
-- [ ] Secure wireless networks [[WiFi Security]] [[WPA3]] [[Wireless Attacks]]
-- [ ] Network [[STUDY/Concepts/Networking/PORTS & PROTOCOLS|Ports & Protocols]]
+- [ ] Secure wireless networks [[STUDY/Concepts/Networking/WiFi Security|WiFi Security]] [[STUDY/Concepts/Networking/WPA3|WPA3]] [[Wireless Attacks]]
+- [x] Network [[STUDY/Concepts/Networking/PORTS & PROTOCOLS|Ports & Protocols]]
 
 ### Operating Systems Security
 
