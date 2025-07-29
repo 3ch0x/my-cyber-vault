@@ -6,8 +6,8 @@
 
 ### Core Security Concepts
 
-- [x] Learn CIA Triad principles [[CIA Triad]] [[Information Security]]
-- [ ] Understand threat modeling concepts [[STUDY/Concepts/Core/Threat Modeling|Threat Modeling]] [[STUDY/Concepts/Core/Risk Management|Risk Management]]
+- [x] Learn CIA Triad principles [[STUDY/Concepts/Core/CIA Triad|CIA Triad]] [[STUDY/Concepts/Core/Information Security|Information Security]]
+- [x] Understand threat modeling concepts [[STUDY/Concepts/Core/Threat Modeling|Threat Modeling]] [[STUDY/Concepts/Core/Risk Management|Risk Management]]
 - [ ] Study vulnerability assessment basics [[STUDY/Concepts/Core/Vulnerability Assessment|Vulnerability Assessment]] [[STUDY/Concepts/Core/Risk Analysis|Risk Analysis]]
 - [ ] Master security controls framework [[STUDY/Concepts/Core/Security Controls|Security Controls]] [[STUDY/Concepts/Core/NIST Framework|NIST Framework]]
 - [ ] Implement defense in depth strategy [[STUDY/Concepts/Core/Defense in Depth|Defense in Depth]] [[STUDY/Concepts/Core/Security Architecture|Security Architecture]]
@@ -26,6 +26,7 @@
 - [ ] Implement network segmentation [[Network Segmentation]] [[VLAN Security]]
 - [ ] Set up VPN connections [[VPN Security]] [[IPSec]] [[OpenVPN]]
 - [ ] Secure wireless networks [[WiFi Security]] [[WPA3]] [[Wireless Attacks]]
+- [ ] Network [[STUDY/Concepts/Networking/PORTS & PROTOCOLS|Ports & Protocols]]
 
 ### Operating Systems Security
 
